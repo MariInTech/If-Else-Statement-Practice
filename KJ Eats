@@ -1,0 +1,8 @@
+let kjEatsOneOz = 1;
+let kjEatsHalfOz = .5;
+
+if (kjEatsOneOz > kjEatsHalfOz) {
+    console.log(`After KJ eats ${kjEatsOneOz} oz, he needs to burp.`);
+} else {
+    console.log(`If he eats ${kjEatsHalfOz} oz, keep feeding him.`);
+}
