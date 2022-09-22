@@ -1,0 +1,8 @@
+let kjBday = 30
+let breBday = 30
+
+if (kjBday == breBday) {
+    console.log(`They were born on the ${kjBday}th so we will party together.`)
+} else {
+    console.log(`They weren't born on the ${breBday}th we will party seperatley. `)
+}
