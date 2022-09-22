@@ -1,0 +1,8 @@
+let kjPoops = 1;
+let noPoop = 0;
+
+if (kjPoops > noPoop) {
+    console.log(`If KJ poops ${kjPoops} time, change his diaper.`);
+} else {
+    console.log(`If KJ poops ${noPoop} times, let him sleep!`);
+}
